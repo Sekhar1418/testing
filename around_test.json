@@ -1,0 +1,20 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "FlatEdge",
+			"url": "https://raw.githubusercontent.com/Sekhar1418/testing/master/waals/Around/default_wallpaper.jpg",
+			"name": "wall1"
+		},
+		{
+			"author": "FlatEdge",
+			"url": "https://raw.githubusercontent.com/Sekhar1418/testing/master/waals/Around/default_wallpaper2.jpg",
+			"name": "wall2"
+		},
+		{
+			"author": "FlatEdge",
+			"url": "https://raw.githubusercontent.com/Sekhar1418/testing/master/waals/Around/default_wallpaper3.jpg",
+			"name": "wall3"
+		}
+	]
+}
